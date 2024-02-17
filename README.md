@@ -8,3 +8,5 @@ Components used:
 
 Libraries used:
 - AltSoftSerial
+
+![Sensor.drawio](Sensor.drawio.png)
